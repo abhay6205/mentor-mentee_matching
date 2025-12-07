@@ -6,14 +6,6 @@ An **AI-powered recommendation system** that helps mentees find the most suitabl
 
 ## 📌 Project Structure
 
-# 🤝 Mentor–Mentee Matching System
-
-An **AI-powered recommendation system** that helps mentees find the most suitable mentors based on **specialization**, **tech stack**, and **experience** using **TF-IDF**, **K-Means clustering**, and **cosine similarity**.
-
----
-
-## 📌 Project Structure
-
 mentor-mentee_matching/
 │── README.md # Project documentation
 │── code.py # Main Python program (CLI-based)
